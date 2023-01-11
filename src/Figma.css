@@ -1,0 +1,971 @@
+/* Website Wireframe  */
+
+box-sizing: border-box;
+
+position: relative;
+width: 1616px;
+height: 2807px;
+
+background: #F5FBFF;
+border: 2px solid #BDE3FF;
+border-radius: 12px;
+
+
+/* footer */
+
+position: relative;
+width: 1504px;
+height: 79px;
+left: 48px;
+top: 2709px;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 1504px;
+height: 79px;
+left: 0px;
+top: 0px;
+
+background: #FF4A03;
+
+
+/* Text */
+
+position: absolute;
+width: 1440px;
+height: 24px;
+left: 32px;
+top: 28px;
+
+
+
+
+/* browser */
+
+position: absolute;
+width: 1504px;
+height: 66px;
+left: 48px;
+top: 64px;
+
+
+
+/* Shape with text */
+
+position: absolute;
+width: 1504px;
+height: 66px;
+left: 48px;
+top: 64px;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 1504px;
+height: 66px;
+left: 0px;
+top: 0px;
+
+background: #C4C4C4;
+border-radius: 6px;
+
+
+/* Text */
+
+position: absolute;
+width: 1472px;
+height: 24px;
+left: 16px;
+top: 21px;
+
+
+
+
+/* Shape with text */
+
+position: absolute;
+width: 1366px;
+height: 24px;
+left: 144px;
+top: 85px;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 1366px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+background: #F8F8F8;
+border-radius: 9.6px;
+
+
+/* Text */
+
+position: absolute;
+width: 1310px;
+height: -32px;
+left: 28px;
+top: 28px;
+
+
+
+
+/* Shape with text */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 64px;
+top: 85px;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 0px;
+
+background: #F8F8F8;
+border-radius: 3px;
+
+
+/* Text */
+
+position: absolute;
+width: 11px;
+height: 11px;
+left: 2.5px;
+top: 2.5px;
+
+
+
+
+/* Shape with text */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 96px;
+top: 85px;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 0px;
+
+background: #F8F8F8;
+border-radius: 3px;
+
+
+/* Text */
+
+position: absolute;
+width: 11px;
+height: 11px;
+left: 2.5px;
+top: 2.5px;
+
+
+
+
+/* 4 */
+
+position: absolute;
+width: 1504px;
+height: 654px;
+left: 48px;
+top: 2055px;
+
+
+
+/* 4-bg */
+
+position: absolute;
+width: 1504px;
+height: 654px;
+left: 48px;
+top: 2055px;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 1504px;
+height: 654px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 6px;
+
+
+/* Text */
+
+position: absolute;
+width: 1440px;
+height: 24px;
+left: 32px;
+top: 315px;
+
+
+
+
+/* STONKENOMICS */
+
+position: absolute;
+width: 519px;
+height: 190px;
+left: 105px;
+top: 2055px;
+
+font-family: 'Black Han Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 150%;
+/* or 96px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.022em;
+
+color: #000000;
+
+
+
+/* 50% airdrop will be allocated to: º */
+
+position: absolute;
+width: 602px;
+height: 406px;
+left: 825px;
+top: 2245px;
+
+font-family: 'Istok Web';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 32px;
+/* or 100% */
+letter-spacing: -0.011em;
+
+color: #000000;
+
+
+
+/* 50% of supply will be allocated to: º 5% Marketing º 15% Liquidity º 20% Rewards º 10% Team */
+
+position: absolute;
+width: 602px;
+height: 406px;
+left: 115px;
+top: 2245px;
+
+font-family: 'Istok Web';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 32px;
+/* or 100% */
+letter-spacing: -0.011em;
+
+color: #000000;
+
+
+
+/* Underscore STONKENOMICS */
+
+position: absolute;
+width: 515.5px;
+height: 0px;
+left: 105.5px;
+top: 2189.5px;
+
+border: 10px solid #FF4A03;
+
+
+/* 3 */
+
+position: absolute;
+width: 1504px;
+height: 654px;
+left: 48px;
+top: 1401px;
+
+box-shadow: inset 0px 10px 0px #FF4A03, inset 0px -10px 0px #FF4A03;
+
+
+/* 3-bg */
+
+position: absolute;
+width: 1504px;
+height: 654px;
+left: 48px;
+top: 1401px;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 1504px;
+height: 654px;
+left: 0px;
+top: 0px;
+
+background: #202423;
+border-radius: 6px;
+
+
+/* Text */
+
+position: absolute;
+width: 1440px;
+height: 24px;
+left: 32px;
+top: 315px;
+
+
+
+
+/* The more you like, the more we burn */
+
+position: absolute;
+width: 619px;
+height: 187px;
+left: 757px;
+top: 1542px;
+
+font-family: 'Istok Web';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 150%;
+/* or 96px */
+text-align: center;
+letter-spacing: -0.022em;
+
+color: #E6E6E6;
+
+
+
+/* Are you ready to secure your bag? */
+
+position: absolute;
+width: 623px;
+height: 142px;
+left: 753px;
+top: 1748px;
+
+font-family: 'Black Han Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 32px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.011em;
+
+color: #FF4A03;
+
+border: 2px solid #FFFFFF;
+
+
+/* GLAVONA_animated_monkey_hodling_bags_filled_with_coins_8b295250-7297-4c77-9227-a8957304764d 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 403px;
+height: 409px;
+left: 138px;
+top: 1490px;
+
+background: url(GLAVONA_animated_monkey_hodling_bags_filled_with_coins_8b295250-7297-4c77-9227-a8957304764d.png);
+border: 7px solid #FFFFFF;
+border-radius: 251px;
+
+
+/* 2 */
+
+position: absolute;
+width: 1504px;
+height: 638px;
+left: 49px;
+top: 766px;
+
+
+
+/* 2-bg */
+
+position: absolute;
+width: 1504px;
+height: 638px;
+left: 49px;
+top: 766px;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 1504px;
+height: 638px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 6px;
+
+
+/* Text */
+
+position: absolute;
+width: 1440px;
+height: 24px;
+left: 32px;
+top: 307px;
+
+
+
+
+/* TOTAL SUPPLY */
+
+position: absolute;
+width: 272px;
+height: 190px;
+left: 171px;
+top: 882px;
+
+font-family: 'Black Han Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 150%;
+/* or 96px */
+text-align: center;
+letter-spacing: -0.022em;
+
+color: #000000;
+
+
+
+/* - */
+
+position: absolute;
+width: 92px;
+height: 92px;
+left: 495px;
+top: 931px;
+
+font-family: 'Istok Web';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 150%;
+/* or 96px */
+text-align: center;
+letter-spacing: -0.022em;
+
+color: #000000;
+
+
+
+/* = */
+
+position: absolute;
+width: 92px;
+height: 92px;
+left: 1018px;
+top: 931px;
+
+font-family: 'Istok Web';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 150%;
+/* or 96px */
+text-align: center;
+letter-spacing: -0.022em;
+
+color: #000000;
+
+
+
+/* TWITTER */
+
+position: absolute;
+width: 309px;
+height: 190px;
+left: 647px;
+top: 882px;
+
+font-family: 'Black Han Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 150%;
+/* or 96px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.022em;
+
+color: #000000;
+
+
+
+/* 42,000,000,690,000 */
+
+position: absolute;
+width: 337px;
+height: 85px;
+left: 158px;
+top: 1129px;
+
+font-family: 'Istok Web';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 32px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.011em;
+
+color: #000000;
+
+
+
+/* EVERYTIME WE POST, IF THE TWEET GETS 690 LIKES WE WILL.. */
+
+position: absolute;
+width: 337px;
+height: 138px;
+left: 633px;
+top: 1129px;
+
+font-family: 'Istok Web';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 32px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.011em;
+
+color: #000000;
+
+
+
+/* 690,000 STONK */
+
+position: absolute;
+width: 337px;
+height: 138px;
+left: 1114px;
+top: 1129px;
+
+font-family: 'Istok Web';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 32px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.011em;
+
+color: #000000;
+
+
+
+/* image 1 */
+
+position: absolute;
+width: 360px;
+height: 360px;
+left: 1116px;
+top: 797px;
+
+background: url(image.png);
+
+
+/* 1 */
+
+position: absolute;
+width: 1504px;
+height: 557px;
+left: 48px;
+top: 209px;
+
+box-shadow: inset 0px -10px 0px #FF4A03;
+
+
+/* 1-bg */
+
+position: absolute;
+width: 1504px;
+height: 557px;
+left: 48px;
+top: 209px;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 1504px;
+height: 557px;
+left: 0px;
+top: 0px;
+
+background: #202423;
+border: 1px solid #000000;
+border-radius: 6px;
+
+
+/* Text */
+
+position: absolute;
+width: 1440px;
+height: 24px;
+left: 32px;
+top: 267px;
+
+
+
+
+/* Monkey-top */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 322px;
+left: 168px;
+top: 290px;
+
+background: url(GLAVONA_animated_monkey_hodling_bags_filled_with_coins_e58ca495-f163-4e78-8a7e-33aa13fa82f7 2.png);
+border: 1px solid #000000;
+border-radius: 433px;
+
+
+/* STONK */
+
+position: absolute;
+width: 690px;
+height: 331px;
+left: 832px;
+top: 288px;
+
+
+
+/* what-is-stonk-text */
+
+position: absolute;
+width: 690px;
+height: 216px;
+left: 832px;
+top: 403px;
+
+font-family: 'Istok Web';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 24px;
+/* or 100% */
+letter-spacing: -0.011em;
+
+color: #FFFFFF;
+
+border: 1px solid #000000;
+
+
+/* STONK! */
+
+position: absolute;
+width: 516px;
+height: 96px;
+left: 832px;
+top: 288px;
+
+font-family: 'Black Han Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 150%;
+/* identical to box height, or 96px */
+letter-spacing: -0.022em;
+
+color: #E6E6E6;
+
+border: 1px solid #FF4A03;
+
+
+/* Socials-icons */
+
+position: absolute;
+width: 256px;
+height: 42px;
+left: 201px;
+top: 655px;
+
+
+
+/* image 5 */
+
+position: absolute;
+width: 41px;
+height: 41px;
+left: 362px;
+top: 656px;
+
+background: url(image.png);
+border: 1px solid #000000;
+
+
+/* image 6 */
+
+position: absolute;
+width: 41px;
+height: 41px;
+left: 416px;
+top: 656px;
+
+background: url(image.png);
+border: 1px solid #000000;
+
+
+/* image 3 */
+
+position: absolute;
+width: 41px;
+height: 41px;
+left: 255px;
+top: 697px;
+
+background: url(image.png);
+border: 1px solid #000000;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* image 2 */
+
+position: absolute;
+width: 41px;
+height: 41px;
+left: 201px;
+top: 655px;
+
+background: url(image.png);
+border: 1px solid #000000;
+
+
+/* image 4 */
+
+position: absolute;
+width: 42px;
+height: 41px;
+left: 308px;
+top: 656px;
+
+background: url(image.png);
+border: 1px solid #000000;
+
+
+/* Navbar */
+
+position: absolute;
+width: 1504px;
+height: 79px;
+left: 48px;
+top: 130px;
+
+
+
+/* Navbar-bg */
+
+position: absolute;
+width: 1504px;
+height: 79px;
+left: 48px;
+top: 130px;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 1504px;
+height: 79px;
+left: 0px;
+top: 0px;
+
+background: #FF4A03;
+border-radius: 6px;
+
+
+/* Text */
+
+position: absolute;
+width: 1472px;
+height: 24px;
+left: 16px;
+top: 28px;
+
+
+
+
+/* WHAT? */
+
+position: absolute;
+width: 83px;
+height: 32px;
+left: 832px;
+top: 158px;
+
+font-family: 'Black Han Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+letter-spacing: -0.019em;
+
+color: #202423;
+
+text-shadow: 2px 3px 4px rgba(255, 255, 255, 0.25);
+
+
+/* HOW? */
+
+position: absolute;
+width: 70px;
+height: 32px;
+left: 1027px;
+top: 158px;
+
+font-family: 'Black Han Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+letter-spacing: -0.019em;
+
+color: #202423;
+
+text-shadow: 0px 4px 4px rgba(255, 255, 255, 0.25);
+
+
+/* LIVE BURN */
+
+position: absolute;
+width: 129px;
+height: 32px;
+left: 1226px;
+top: 158px;
+
+font-family: 'Black Han Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+letter-spacing: -0.019em;
+
+color: #202423;
+
+text-shadow: 0px 4px 4px rgba(255, 255, 255, 0.25);
+
+
+/* Sandwich-menu */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 1474px;
+top: 149px;
+
+border: 16px solid #000000;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF4A03;
+
+
+/* Group 3 */
+
+position: absolute;
+left: 14.58%;
+right: 14.58%;
+top: 20.83%;
+bottom: 20.83%;
+
+
+
+/* Vector 3 */
+
+position: absolute;
+left: 14.58%;
+right: 14.58%;
+top: 20.83%;
+bottom: 79.17%;
+
+border: 2px solid #000000;
+
+
+/* Vector 4 */
+
+position: absolute;
+left: 14.58%;
+right: 14.58%;
+top: 50%;
+bottom: 50%;
+
+border: 2px solid #000000;
+
+
+/* Vector 5 */
+
+position: absolute;
+left: 14.58%;
+right: 14.58%;
+top: 79.17%;
+bottom: 20.83%;
+
+border: 2px solid #000000;
